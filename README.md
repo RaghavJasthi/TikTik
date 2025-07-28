@@ -1,2 +1,2 @@
 # TikTik
-This is my person MERN Stack project 
+This is my personal MERN Stack project 
